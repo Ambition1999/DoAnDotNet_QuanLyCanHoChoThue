@@ -1,0 +1,284 @@
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe.config
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.pdb
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Properties.Resources.resources
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.exe
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.pdb
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangNhap.resources
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangKy.resources
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThem.resources
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThue.resources
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaCanHo.resources
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDSHopDong.resources
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemKhachHang.resources
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemToaNha.resources
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Form1.resources
+C:\Users\USER\Documents\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaToaNha.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe.config
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.exe
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.pdb
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csprojResolveAssemblyReference.cache
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ChonKhachHang.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Form1.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangKy.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangNhap.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDSHopDong.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaCanHo.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaToaNha.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThem.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemKhachHang.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemToaNha.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThue.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Properties.Resources.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaKhachHang.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csproj.GenerateResource.Cache
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.pdb
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe.config
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.exe
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.pdb
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.pdb
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ChonKhachHang.resources
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Form1.resources
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangKy.resources
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangNhap.resources
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDSHopDong.resources
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaCanHo.resources
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaToaNha.resources
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThem.resources
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemKhachHang.resources
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemToaNha.resources
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThue.resources
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Properties.Resources.resources
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaKhachHang.resources
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemKhachHang1.resources
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.GiaHan.resources
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.suaHD.resources
+C:\Users\Admin\Desktop\SAS\511\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaThanhToan.resources
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe.config
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.exe
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.pdb
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ChonKhachHang.resources
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThueSua.resources
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Form1.resources
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangKy.resources
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangNhap.resources
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDSHopDong.resources
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaCanHo.resources
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaToaNha.resources
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThem.resources
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemKhachHang.resources
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemToaNha.resources
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThue.resources
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Properties.Resources.resources
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaKhachHang.resources
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaThanhToan.resources
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.pdb
+C:\Users\Admin\Desktop\SAS\512\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ThanhToan.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe.config
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.exe
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.pdb
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.pdb
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csprojResolveAssemblyReference.cache
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ChonKhachHang.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThueSua.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Form1.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangKy.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangNhap.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDSHopDong.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaCanHo.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaToaNha.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThem.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemKhachHang.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemToaNha.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThue.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ThanhToan.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Properties.Resources.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaKhachHang.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaThanhToan.resources
+C:\Users\quan1\OneDrive\Máy tính\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe.config
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.exe
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.pdb
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.pdb
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ChonKhachHang.resources
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThueSua.resources
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Form1.resources
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangKy.resources
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangNhap.resources
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDSHopDong.resources
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaCanHo.resources
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaToaNha.resources
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThem.resources
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemKhachHang.resources
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemToaNha.resources
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThue.resources
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ThanhToan.resources
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Properties.Resources.resources
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaKhachHang.resources
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaThanhToan.resources
+C:\Users\Admin\Desktop\SAS\DOANNE (1)\DOANNE\DOANNE\DoAnDotNet511\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe.config
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.exe
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.pdb
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.pdb
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ChonKhachHang.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThueSua.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Form1.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangKy.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangNhap.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDSHopDong.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaCanHo.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaToaNha.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThem.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemKhachHang.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemToaNha.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThue.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ThanhToan.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Properties.Resources.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaKhachHang.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaThanhToan.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormXemChiTietCanHo.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe.config
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.exe
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.pdb
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.pdb
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csprojResolveAssemblyReference.cache
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ChonKhachHang.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThueSua.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Form1.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangKy.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangNhap.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDSHopDong.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaCanHo.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaToaNha.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThem.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemKhachHang.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemToaNha.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThue.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormXemChiTietCanHo.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ThanhToan.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Properties.Resources.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaKhachHang.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaThanhToan.resources
+C:\Users\quan1\OneDrive\Máy tính\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe.config
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.exe
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.pdb
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.pdb
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ChonKhachHang.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThueSua.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Form1.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangKy.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangNhap.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDSHopDong.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaCanHo.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaToaNha.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThem.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemKhachHang.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemToaNha.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThue.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormXemChiTietCanHo.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ThanhToan.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Properties.Resources.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaKhachHang.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaThanhToan.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe.config
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.exe
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.pdb
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.pdb
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ChonKhachHang.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThueSua.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Form1.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangKy.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangNhap.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDSHopDong.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaCanHo.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaToaNha.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThem.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemKhachHang.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemToaNha.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThue.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormXemChiTietCanHo.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ThanhToan.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaKhachHang.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaThanhToan.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.MyCrystalHD.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.MyCrystalCTHD.resources
+C:\Users\Admin\Desktop\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.TaiKhoan.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe.config
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.exe
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.pdb
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.pdb
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ChonKhachHang.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThueSua.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Form1.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangKy.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangNhap.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDSHopDong.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaCanHo.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaToaNha.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThem.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemKhachHang.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemToaNha.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThue.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormXemChiTietCanHo.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.MyCrystalCTHD.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.MyCrystalHD.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.TaiKhoan.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ThanhToan.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Properties.Resources.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaKhachHang.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaThanhToan.resources
+C:\Users\USER\Documents\Zalo Received Files\DoAnDotNetTheLast\DoAnDotNetdgffhf (1)\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csproj.GenerateResource.Cache
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe.config
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.exe
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.pdb
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.exe
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\bin\Debug\DoAnDotNet.pdb
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csprojResolveAssemblyReference.cache
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ChonKhachHang.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThueSua.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Form1.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangKy.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDangNhap.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormDSHopDong.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaCanHo.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormSuaToaNha.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThem.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemKhachHang.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThemToaNha.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormThue.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.FormXemChiTietCanHo.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.MyCrystalCTHD.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.MyCrystalHD.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.TaiKhoan.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.ThanhToan.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.Properties.Resources.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaKhachHang.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.SuaThanhToan.resources
+G:\3Thư mục các đề tài đã báo cáo\DoAnDotNetdgffhf\DoAnDotNet (1)\DoAnDotNet\DoAnDotNet\obj\Debug\DoAnDotNet.csproj.GenerateResource.Cache
